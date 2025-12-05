@@ -3,6 +3,7 @@ Projeto: Análise de Vintage e Inadimplência de Crédito
 Este projeto consiste em uma automação desenvolvida em Python para processar dados de duplicatas, calcular a Matriz de Safra (Vintage Analysis) e gerar indicadores de inadimplência.
 
 ** Objetivo
+
 O script lê uma base de dados bruta, realiza o tratamento e limpeza (ETL), aplica regras de negócio para classificar atrasos (buckets de 30, 60, 90 e 180 dias) e exporta um relatório executivo em Excel.
 
 ** Tecnologias
