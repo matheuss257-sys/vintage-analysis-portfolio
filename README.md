@@ -14,9 +14,10 @@ OpenPyXL (Exportação para Excel)
 
 
 ** Estrutura dos Arquivos
-MatrizAdimplencia.ipynb: O código fonte (Jupyter Notebook) com toda a lógica documentada.
-dados.xlsx: Base de dados fictícia utilizada para demonstração.
-Relatorio_Analise_Carteira_Final.xlsx: Exemplo do output gerado pelo script.
+
+'MatrizAdimplencia.ipynb': O código fonte (Jupyter Notebook) com toda a lógica documentada;
+'dados.xlsx': Base de dados fictícia utilizada para demonstração;
+'Relatorio_Analise_Carteira_Final.xlsx': Exemplo do output gerado pelo script.
 
 
 ** Para Executar
